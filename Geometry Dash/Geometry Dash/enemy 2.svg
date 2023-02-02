@@ -1,0 +1,31 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="480px" height="360px" viewBox="0 0 480 360">
+<defs>
+<g id="spike2_0_Layer0_0_FILL">
+<path fill="#FF2A98" stroke="none" d="
+M 26.15 18.85
+L 28.95 23.4 33.7 15 36.9 20.2 30.95 0 26.15 18.85
+M 11.7 4.6
+L 7.4 22.6 7.85 23.2
+Q 8.45 24.1 9.1 25
+L 14.8 17.55 15.15 17.05 11.7 4.6
+M 22.25 22.6
+L 24.45 19.4 20.65 10.4 18.3 16.55 18.8 17.3
+Q 20.5 19.95 22.25 22.6 Z"/>
+
+<path fill="#000000" stroke="none" d="
+M 25.5 17.8
+L 24.45 19.4 22.25 22.6
+Q 20.5 19.95 18.8 17.3
+L 18.3 16.55 17.05 14.6 14.8 17.55 9.1 25
+Q 8.45 24.1 7.85 23.2
+L 7.4 22.6 5.75 20.2 0 29.2 42.4 29.2 36.9 20.25 36.9 20.2 33.7 15 28.95 23.4 26.15 18.85 25.5 17.8 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 218.8,165.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#spike2_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

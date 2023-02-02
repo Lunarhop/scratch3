@@ -1,0 +1,117 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="480px" height="360px" viewBox="0 0 480 360">
+<defs>
+<radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="44.53750000000002" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999996, 0, 0, 0.9999999999999996, 239.95,178) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFD94A"/>
+
+<stop  offset="85.09803921568627%" stop-color="#FF9D0D"/>
+
+<stop  offset="100%" stop-color="#FF9D0D"/>
+</radialGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="250.875" y1="188.3375" x2="225.22500000000002" y2="171.1625" spreadMethod="pad">
+<stop  offset="0%" stop-color="#46ECFF"/>
+
+<stop  offset="100%" stop-color="#39FFCB"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="244.25" y1="169.1" x2="254.25" y2="169.1" spreadMethod="pad">
+<stop  offset="0%" stop-color="#46ECFF"/>
+
+<stop  offset="100%" stop-color="#39FFCB"/>
+</linearGradient>
+
+<g id="Layer1_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 216.35 154.4
+Q 214.35 154.4 214.35 156.4
+L 214.35 203.7
+Q 214.45 205.6 216.25 205.6
+L 263.55 205.6
+Q 265.55 205.6 265.55 203.6
+L 265.55 156.4
+Q 265.55 154.4 263.55 154.4
+L 216.35 154.4 Z"/>
+</g>
+
+<g id="Layer1_0_MEMBER_1_MEMBER_0_MEMBER_0_FILL">
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 236.25 174.1
+L 236.25 164.1 226.25 164.1 226.25 174.1 236.25 174.1
+M 223.55 182.2
+L 223.55 190.05 257.75 190.05 257.75 182.2 223.55 182.2 Z"/>
+</g>
+
+<g id="Layer1_0_MEMBER_1_MEMBER_0_MEMBER_1_FILL">
+<path fill="#FFF193" stroke="none" d="
+M 241.9 164.1
+L 241.9 176.45 254.25 176.45 254.25 174.1 244.25 174.1 244.25 164.1 241.9 164.1
+M 221.1 182.2
+L 221.1 192.5 257.75 192.5 257.75 190.05 223.55 190.05 223.55 182.2 221.1 182.2
+M 216.35 154.4
+Q 214.35 154.4 214.35 156.4
+L 214.35 158.2
+Q 214.45 157.7 214.65 157.3 215.1 156.6 216.25 156.6
+L 261.45 156.6
+Q 263.35 156.6 263.35 158.5
+L 263.35 203.85
+Q 263.35 205.5693359375 261.6 205.6
+L 263.55 205.6
+Q 265.55 205.6 265.55 203.6
+L 265.55 156.4
+Q 265.55 154.4 263.55 154.4
+L 216.35 154.4
+M 226.25 164.1
+L 223.9 164.1 223.9 176.45 236.25 176.45 236.25 174.1 226.25 174.1 226.25 164.1 Z"/>
+</g>
+
+<g id="Layer1_0_MEMBER_1_MEMBER_0_MEMBER_2_FILL">
+<path fill="url(#Gradient_3)" stroke="none" d="
+M 254.25 174.1
+L 254.25 164.1 244.25 164.1 244.25 174.1 254.25 174.1 Z"/>
+</g>
+
+<path id="Layer1_0_MEMBER_2_MEMBER_0_1_STROKES" stroke="#000000" stroke-width="2" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 236.92880859375 175.0966796875
+L 228.58896484375 175.0966796875 228.58896484375 166.7568359375 236.92880859375 166.7568359375 236.92880859375 175.0966796875 Z
+M 226.33720703125002 181.851953125
+L 226.33720703125002 188.39873046875002 254.85947265625 188.39873046875002 254.85947265625 181.851953125 226.33720703125002 181.851953125 Z
+M 251.94052734375 175.0966796875
+L 243.60068359375 175.0966796875 243.60068359375 166.7568359375 251.94052734375 166.7568359375 251.94052734375 175.0966796875 Z"/>
+
+<path id="Layer1_0_MEMBER_3_MEMBER_0_1_STROKES" stroke="#000000" stroke-width="2" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 220.33251953125 158.6671875
+L 259.69658203125 158.6671875
+Q 261.36455078125 158.6671875 261.36455078125 160.33515625
+L 261.36455078125 199.69921875
+Q 261.36455078125 201.3671875 259.69658203125 201.3671875
+L 220.24912109375 201.3671875
+Q 218.74794921875 201.3671875 218.66455078125 199.7826171875
+L 218.66455078125 160.33515625
+Q 218.66455078125 158.6671875 220.33251953125 158.6671875 Z"/>
+</defs>
+
+<g transform="matrix( 0.833984375, 0, 0, 0.833984375, 39.9,29.9) ">
+<use xlink:href="#Layer1_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.833984375, 0, 0, 0.833984375, 39.9,29.9) ">
+<use xlink:href="#Layer1_0_MEMBER_1_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.833984375, 0, 0, 0.833984375, 39.9,29.9) ">
+<use xlink:href="#Layer1_0_MEMBER_1_MEMBER_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 0.833984375, 0, 0, 0.833984375, 39.9,29.9) ">
+<use xlink:href="#Layer1_0_MEMBER_1_MEMBER_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 0.833984375, 0, 0, 0.833984375, 39.9,29.9) ">
+<use xlink:href="#Layer1_0_MEMBER_2_MEMBER_0_1_STROKES" transform="matrix( 1.1990509033203125, 0, 0, 1.1990509033203125, -47.8,-35.85) "/>
+</g>
+
+<g transform="matrix( 0.833984375, 0, 0, 0.833984375, 39.9,29.9) ">
+<use xlink:href="#Layer1_0_MEMBER_3_MEMBER_0_1_STROKES" transform="matrix( 1.1990509033203125, 0, 0, 1.1990509033203125, -47.8,-35.85) "/>
+</g>
+</svg>
